@@ -1,0 +1,28 @@
+Installation
+Clone the repository:
+
+
+git clone https://github.com/realrajdip/hospitality-allocation.git
+cd hospitality-allocation
+
+Install frontend dependencies:
+
+
+cd client
+npm install
+Install backend dependencies:
+
+
+cd ..
+npm install
+Running the Application
+Start the backend server:
+
+
+node server.js
+Start the frontend application:
+
+
+cd client
+npm start
+Open your browser and navigate to http://localhost:3000 to see the application in action.
